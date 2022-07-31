@@ -1777,7 +1777,7 @@ Responsible for site architecture, design, graphics, programming, copywriting/ed
 
 {/* <div className="spacer33"></div>  */}
 
-<ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}>
+{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}> */}
 
 <section id="contact" className="child" style={{position:'relative', height:'auto', zIndex:'', padding:'2rem 0', background: 'rgba(196, 189, 179, .5)'}}>
 
@@ -1804,7 +1804,7 @@ Availability: &nbsp; {date}
 
 
  </section>
- </ScrollAnimation>
+ {/* </ScrollAnimation> */}
 
  {/* <div className="spacer66"></div>  */}
 
