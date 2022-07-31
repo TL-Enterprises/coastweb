@@ -642,21 +642,21 @@ background: 'rgba(196, 189, 179, .4)'
 
 
 
-<h3 style={{fontSize:'25vw', opacity:'.1', transform: 'skewY(-120deg)', transform:'rotate(7deg)', bottom:'35vh'}}>gatsby</h3>
+<h3 style={{fontSize:'25vw', opacity:'.1', transform: 'skewY(-120deg)', transform:'rotate(7deg)', bottom:'35vh'}}>coast</h3>
 
 <h3 style={{fontSize:'35vw', opacity:'.1', transform: 'skewY(20deg)', transform:'rotate(-8deg)', bottom:'0', border:'0px solid red'}}>design</h3>
 
-<h3 style={{fontSize:'20vw', opacity:'.1', transform: 'skewY(-20deg)', transform:'rotate(2deg)', position:'absolute', top:'39vh', left:'20vw', fontWeight:'bold'}}>≺code≻</h3>
+<h3 style={{fontSize:'20vw', opacity:'.1', transform: 'skewY(-20deg)', transform:'rotate(2deg)', position:'absolute', top:'39vh', left:'20vw', fontWeight:'bold'}}>bay st. louis</h3>
 
-<h3 style={{fontSize:'10vw', opacity:'.2', transform: 'skewY(140deg)', transform:'rotate(-15deg)', position:'absolute', top:'0', fontWeight:'bold'}}>php</h3>
+<h3 style={{fontSize:'10vw', opacity:'.2', transform: 'skewY(140deg)', transform:'rotate(-15deg)', position:'absolute', top:'0', fontWeight:'bold'}}>gulfport</h3>
 
-<h3 style={{fontSize:'18vw', opacity:'.2', transform: 'skewY(-0deg)', transform:'rotate(32deg)', position:'absolute', top:'0vh', right:'0', fontWeight:'normal', color:'#000'}}><i>html</i></h3>
+<h3 style={{fontSize:'18vw', opacity:'.2', transform: 'skewY(-0deg)', transform:'rotate(32deg)', position:'absolute', top:'0vh', right:'0', fontWeight:'normal', color:'#000'}}><i>Biloxi</i></h3>
 
-<h3 style={{fontSize:'18vw', opacity:'.2', transform: 'skewY(-20deg)', transform:'rotate(27deg)', position:'absolute', top:'60vh', left:'3vw', fontWeight:'bold'}}>css</h3>
+<h3 style={{fontSize:'18vw', opacity:'.2', transform: 'skewY(-20deg)', transform:'rotate(27deg)', position:'absolute', top:'60vh', left:'3vw', fontWeight:'bold'}}>D'Iberville</h3>
 
-<h3 style={{fontSize:'12vw', opacity:'.1', transform: 'skewY(-120deg)', transform:'rotate(-21deg)', position:'absolute', bottom:'18vh', right:'0vw', fontWeight:'normal'}}>javascript</h3>
+<h3 style={{fontSize:'12vw', opacity:'.1', transform: 'skewY(-120deg)', transform:'rotate(-21deg)', position:'absolute', bottom:'18vh', right:'0vw', fontWeight:'normal'}}>pascagoula</h3>
 
-<h3 style={{fontSize:'42vw', opacity:'.1', transform: 'skewY(-120deg)', transform:'rotate(7deg)', position:'absolute', top:'70vh', right:'10vw', fontWeight:'normal', color:'transparent', border:'0px solid white', textShadow:'0 0 0px #fff', filter:'drop-shadow(0px 0px 3px rgba(0, 0, 0, 0.5))'}}>pwa</h3>
+<h3 style={{fontSize:'42vw', opacity:'.1', transform: 'skewY(-120deg)', transform:'rotate(7deg)', position:'absolute', top:'70vh', right:'10vw', fontWeight:'normal', color:'transparent', border:'0px solid white', textShadow:'0 0 0px #fff', filter:'drop-shadow(0px 0px 3px rgba(0, 0, 0, 0.5))'}}>gulf</h3>
 
 
 </div>
@@ -670,7 +670,7 @@ background: 'rgba(196, 189, 179, .4)'
 {/* <div style={{ width:'80%', background: 'rgba(196, 189, 179, .5)',
   backdropFilter: 'blur(44px)', margin:'0 auto', borderRadius:'12px', zIndex:'2'}}> */}
 
-<div className="logolink" style={{textAlign:'center', position:'relative',fontSize:'clamp(2rem, 12.5vw, 10rem)', background:'tranparent', filter: 'drop-shadow(0px 0px 0px #444)'}}><span className="logofirst mainlogo">coast</span><span style={{color:'rgb(187 54 0)'}}>web</span>.Site</div>
+<div className="logolink" style={{textAlign:'center', position:'relative',fontSize:'clamp(2rem, 12.5vw, 10rem)', background:'tranparent', filter: 'drop-shadow(0px 0px 0px #444)'}}><span className="logofirst mainlogo">Coast</span><span style={{color:'rgb(187 54 0)'}}>Web</span>.site</div>
 {/* </ScrollAnimation> */}
 
 {/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={true} delay={1000}> */}
@@ -683,7 +683,7 @@ textShadow:'0 1px 0 #eee',
 fontSize:'clamp(1.6rem, 6vw, 3.8rem)',
 paddingLeft:'2rem',
 }}>
-Digital Product <span style={{color:'rgb(187 54 0)'}}>Design</span>
+multimedia <span style={{color:'rgb(187 54 0)'}}>websites</span>
 </h1>
 {/* </ScrollAnimation> */}
 
@@ -700,7 +700,7 @@ textShadow:'0 1px 0 #eee',
 fontSize:'clamp(1.6rem, 6vw, 3.8rem)',
 paddingLeft:'2rem',
 }}>
-Conceptual <span style={{color:'rgb(187 54 0)'}}>Photography</span>
+Digital Product <span style={{color:'rgb(187 54 0)'}}>Design</span>
 </h2>
 {/* </ScrollAnimation> */}
 
@@ -725,7 +725,7 @@ Guerrilla <span style={{color:'rgb(187 54 0)'}}>Marketing</span>
 
 
  <div className="spacer66 mobile"></div> 
-
+<section  style={{display:'none'}}>
 
  <div className="parent" style={{display:'flex', flexDirection:'row', justifyContent:'space-between', height:'100%', gap:'20px', marginTop:'20px'}}> 
 
@@ -745,8 +745,13 @@ fontSize:'clamp(1.6rem, 12vw, 3.8rem)',
   
 {/* <span style={{color:'#dd4000'}}>Roles are like hats</span> */}
 </h2>
+
+
+
 <h3 className="logotype"  style={{textAlign:'center', margin:'1vh 0 3vh 0', fontSize:'5vw', clear:'right', }}>About</h3>
 </div>
+
+
 
 <div className="div4" style={{ background: 'rgba(196, 189, 179, .6)', maxHeight:'', justifyContent:'center', display:'flex', flexDirection:'column',}}>
 <div style={{padding:'0 8% 0 6.5%', fontSize:'clamp(1rem, 2vw, 2.8rem)',}}>
@@ -855,13 +860,311 @@ paddingLeft:'',
 </ScrollAnimation>
 
 
+</section>
 
 
 
 
 
 
-<section id="posts1" name="posts">
+<section className="outer section section--gradient fluff txtshadow" style={{padding:'0 8%'}} >
+      <div className="container" style={{padding: '0 10%', color:'#fff'}}>
+
+{/* <h2>Start with the best built website and then make sure it's as fast as can be. Then make some of the most innovative features that nobody else has. Finally, make sure it's virtually hack-proof, easy to use and ready to go!</h2>
+
+<br />
+<p>VidSocks use the industry best cloud-based tools for things like user commenting, analytics, and e-commerce.</p> */}
+
+
+
+
+
+
+
+
+
+<div id="costs" style={{display:'flex', flexDirection:'column', justifyContent:'center', alignItems:'center', margin:'0 0 2rem 0', width:'100%', color:'#fff'}}>
+              
+              
+
+              <p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}><u>LOW</u> Monthly Costs</p>
+              
+              <div style={{display:'flex', padding:'1rem 10%', margin:'0 2% 0 2%', borderRadius:'12px', height:'', textAlign:'center', justifyContent:'space-around', alignContent:'center', alignItems:'center', maxWidth:'1000px', gap:'20px', background:'rgba(0,0,0,0.30)', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #ad04a5)', border:'1px solid #000'}}>
+              
+                <span style={{fontSize:'3rem', color:'white', transform:'rotate()', lineHeight:'100%'}}>Web Apps </span>
+              
+                <span style={{width:'70%', fontSize:'40px', color:'var(--primary-color)', lineHeight:'100%'}}>
+                WITH NO<br /> HIDDEN COSTS
+                </span>
+              </div>
+
+              <p style={{fontSize:'150%', textAlign:'center', margin:'0 0 0 0'}}>uses metered Cloud Based Services</p>
+
+              </div>
+
+
+{/* <h2 id="costs" className="letter" style={{fontSize:'240%', textAlign:'center'}}>VidSocks Run Free Of Cost</h2>
+<p style={{fontSize:'150%', textAlign:'center'}}>VidSocks users have <u>NO</u> monthly costs.
+
+</p>  */}
+
+
+
+<div className="flexbutt hover" style={{display:'flex', padding:'0', gap:'20px', color:'#fff'}}>
+
+
+<div className="flexcheek" style={{width:'33%', background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #291c74', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Cloud Hosting</h3>
+
+<div style={{}}>Virtually all sites operate month-to-month for <strong className="highlight">FREE or low cost</strong>. 
+  <br />
+Pay only when your site uses a LOT of data.<br /> 
+ <br />
+ <div style={{textDecoration:'underline', textAlign:'center'}}><a href="https://www.netlify.com/pricing/" target="_blank" rel="noreferrer" >View  <strong className="highlight"></strong> Hosting Plan</a></div>
+ </div>
+
+</div>
+
+<div className="flexcheek" style={{width:'33%', background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #612069', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Analytics</h3>
+<p>Complete integration with Google Analytics. Simply paste your account tracking code into the CMS settings. 
+  <br />
+  <br />Track your website performance for <strong className="highlight">FREE</strong>!</p>
+</div>
+
+<div className="flexcheek" style={{width:'33%', background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #291c74', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>E-Commerce</h3>
+<p>Complete Shopify API integration with Shopify shopping cart built-in.
+Get FULL Shopify functionality directly inside your site.
+<br />
+   <br />Shopify API costs <strong className="highlight">$8.99mo</strong>.</p>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div className="flexbutt hover" style={{display:'flex', marginTop:'20px', padding:'', gap:'20px', color:'#fff'}}>
+
+
+<div className="flexcheek" style={{width:'33%', background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #612069', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Social Sharing</h3>
+<p>Why pay for plugins just to allow for your users to share your content? Social sharing is built-in, along with other great features. <br /><br />All INCLUDED for <strong className="highlight">FREE</strong>.</p>
+</div>
+
+<div className="flexcheek" style={{width:'33%', background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #291c74', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>AdFree YouTube</h3>
+<p>We use AdFree YouTube to remove ads. This means you have complete control of your videos without any ads.
+  
+  <br /><br />AdFree YouTube <strong className="highlight">FREE!</strong></p>
+</div>
+
+{/* <div className="flexcheek" style={{width:'33%', padding:'2rem', background: 'rgba(0,0,0,0.30)', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #999', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext">NFT Features</h3>
+<p>Setup countdown timers for your own NFT Drops!  <br /> Embed your Foundation or OpenSea into your posts. Just copy and paste the share code.</p>
+</div> */}
+<div className="flexcheek" style={{width:'33%', background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ', backdropFilter: 'blur(4px)', border:'10px double #612069', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+<h3 className="vartext letter" style={{color:'#fff', fontWeight:'700'}}>Comments</h3>
+<p>We use CommentBox.io and with their generous 100 comments a month.
+  
+  <br /><br /><strong className="highlight" style={{color:''}}>FREE!</strong> Comments without ads</p>
+</div>
+
+
+</div>
+
+
+
+      </div>
+</section>
+
+
+
+
+
+<section id="features" className="" style={{padding:'8% 2%'}}>
+<div className="flexbutt featurelisting" style={{display:'flex', padding:'2rem', alignItems:'baseline', gap:'30px', color:'#fff'}}>
+
+
+
+  <div className="flexcheek" >
+    <div className="frontcontent">
+      <div className="content-inside" style={{padding:'8px', textAlign:'left'}}>
+        
+      <h2
+  className="title1 txtshadow-header"
+  style={{
+   position: 'relative',
+    textAlign: 'center', 
+    float: 'none',
+    margin:'0 0 10px 0',
+    padding:'0',
+    fontSize:'1.7rem'
+  }}
+>
+
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #ad04a5)', border:'1px solid #000' }}>Coast Web Sites include:</span></h2>
+          
+        <ul className="featurelist" style={{listStyleType:'none'}}>
+        <li>User-installable PWA (Progressive Web Apps) which means your site can be installed on any device without the need for expensive and complex App Stores.</li>
+        <li>Hosted on Global Edge Network (the cloud)</li>
+        <li>Automated backups with intant rollbacks to any version.</li>
+        <li>FREE - 100GB/Mo Bandwidth</li>
+<li>FREE - 100 Site Form Submits per Mo</li>
+<li>FREE Secured Socket Layer (SSL) Cert (https://)</li>
+<li>Customizable with your own domain name</li>
+<li>Responsive Design, built with React and Gatsby</li>
+<li>Dark / Light Mode (also full support for all web accessibility guidelines)</li>
+
+
+</ul>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  <div className="flexcheek hover">
+    <div className="frontcontent">
+      <div className="content-inside" style={{padding:'8px'}}>
+        {/* <h2 className="vartext txtshadow">VidSocks Features:</h2> */}
+        <h2
+  className="title1 txtshadow-header"
+  style={{
+
+
+   position: 'relative',
+    textAlign: 'center', 
+    float: 'none',
+    margin:'0 0 10px 0',
+    padding:'0',
+    fontSize:'1.7rem'
+  }}
+>
+
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #ad04a5)', border:'1px solid #000' }}>Coast Web Sites:</span></h2>
+
+        <ul className="featurelist" style={{listStyleType:'none'}}>
+
+
+
+
+
+
+<li>Customize all content of included Homepage, About and Contact page. Add / Modify / Delete blog posts.</li>
+
+<li>Edit website settings, Add Google Analytics change colors, settings, logos, etc all from within the CMS.</li>
+
+
+<li>Hide/Show Comments, Social Sharing, or User-interactivity (youtube video changer) on a post-by-post basis</li>
+
+<li>Control YouTube videos with starting/stopping times, loop, mute, etc..</li>
+
+<li>PWA Exclusive Content (make some of your content only available to your site's user base - great to boost engagement!)</li>
+
+<li>Drop Timers - Easily create your own Drops. Make posts appear when your NFT drops. Just add the drop date and time</li>
+
+<li>Your Stuff is SAFE - All stored in native image formats and markdown files that are downloadable at any time</li>
+{/* <li>Auction Timers - Make posts disappear when your auction expires</li> */}
+
+</ul>
+      </div>
+    </div>
+  </div>
+
+  
+
+
+
+  <div className="flexcheek">
+    <div className="frontcontent content-lr">
+    
+      <div className="content-inside" style={{padding:'8px'}}>
+        
+
+        <h2
+  className="title1 txtshadow-header"
+  style={{
+
+
+   position: 'relative',
+    textAlign: 'center', 
+    float: 'none',
+    margin:'0 0 10px 0',
+    padding:'0',
+    fontSize:'1.7rem'
+  }}
+>
+
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #ad04a5)', border:'1px solid #000' }}>More Features:</span></h2>
+
+
+        <ul className="featurelist" style={{listStyleType:'none'}}>
+        
+
+<li>100% SEO Optimized - Google LOVES VidSocks. </li>
+
+<li>Full Privacy Compliance Support (GDPR and CCPA). </li>
+
+<li>Contact Form - an integrated contact form on all pages of the your site, that sends everything right to your email inbox.</li>
+
+<li>E-Newsletter Form - Build your email newsletter by allowing peole to easily sign up</li>
+
+<li>Social Media Icons - link to all your sites and allow users to easily share your content</li>
+
+<li>OpenGraph structured data - all of site is structured to be shared with high quality image links on social sites</li>
+
+<li>Twitter Cards meta - Your pages will look great when shared on Twitter</li>
+
+<li>XML Sitemaps - Your entire site is automatically indexed and links provided to search engines.</li>
+
+
+
+
+
+
+</ul>
+      </div>
+    </div>
+  </div>
+  
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="posts1" name="posts" style={{display:'none'}}>
 
 
 
@@ -1001,7 +1304,7 @@ Todd sells exceptionally fast and well-built multimedia web apps called VidSocks
 
 
 
-<section id="posts1" name="posts">
+<section id="posts1" name="posts" style={{display:'none'}}>
 
 
 
@@ -1104,7 +1407,7 @@ zIndex:'0'
 
 
 
-<section id="resume" style={{margin:'0', background: 'rgba(196, 189, 179, .9)', filter:'drop-shadow(12px 12px 12px rgba(44, 44, 44, 0.6))'}}>
+<section id="resume" style={{display:'none', margin:'0', background: 'rgba(196, 189, 179, .9)', filter:'drop-shadow(12px 12px 12px rgba(44, 44, 44, 0.6))'}}>
 
 {/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}> */}
 
