@@ -12,7 +12,7 @@ import ScrollAnimation from 'react-animate-on-scroll'
 import Contact from '../components/Contact-inc'
 import { Helmet } from "react-helmet"
 import { StaticImage } from "gatsby-plugin-image"
-import CasePanels from "../components/casepanels"
+// import CasePanels from "../components/casepanels"
 // import { useSiteMetadata } from "../hooks/use-site-metadata"
 import ReactPlayer from 'react-player/lazy'
 // import { ImPlay } from "react-icons/im"
@@ -672,7 +672,7 @@ background: 'rgba(196, 189, 179, .4)'
 {/* <div style={{ width:'80%', background: 'rgba(196, 189, 179, .5)',
   backdropFilter: 'blur(44px)', margin:'0 auto', borderRadius:'12px', zIndex:'2'}}> */}
 
-<div className="logolink" style={{textAlign:'center', position:'relative',fontSize:'clamp(2rem, 12.5vw, 10rem)', background:'tranparent', filter: 'drop-shadow(0px 0px 0px #444)'}}><span className="logofirst mainlogo" style={{color:'#0064bb', filter: 'drop-shadow(0px 0px 0px #444)'}}>coast</span><span  className="mainlogo" style={{color:'#0064bb'}}>web</span>.site</div>
+<div className="logolink" style={{textAlign:'center', position:'relative',fontSize:'clamp(2rem, 12.5vw, 10rem)', background:'tranparent', filter: 'drop-shadow(0px 0px 0px #444)'}}><span className="logofirst mainlogo" style={{color:'#0064bb', filter: 'drop-shadow(0px 0px 0px #444)'}}>coast</span><span  className="mainlogo" style={{color:'#0064bb'}}>web</span><span style={{fontSize:'clamp(1.6rem, 10.5vw, 8rem)',}}>.site</span></div>
 {/* </ScrollAnimation> */}
 
 {/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={true} delay={1000}> */}

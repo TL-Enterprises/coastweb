@@ -3390,7 +3390,7 @@ background:#0064bb;
           
             
             .logofirst {
-              padding-right: 3%;
+              padding-right: 2%;
               position: relative;
               color:#666;
               filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.5));
@@ -3401,8 +3401,8 @@ background:#0064bb;
               color: #666;
               position: absolute;
               margin-left:165%;
-              margin-top:-5%;
-              font-size: 40%;
+              margin-top:0;
+              font-size: 30%;
               line-height:8vh;
               transform: rotate(-10deg);
   
