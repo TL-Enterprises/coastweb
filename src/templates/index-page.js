@@ -20,6 +20,7 @@ import ReactPlayer from 'react-player/lazy'
 // import Portfolio from "../pages/portfolio"
 // import Photos from "../pages/favorites"
 // import Animation from "../pages/animation"
+import LHScores from "../../static/assets/LH-Scores.svg"
 import NFTDetails from "../components/nft-details"
 import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox"
 import styled from "styled-components"
@@ -722,6 +723,210 @@ Guerrilla <span style={{color:'rgb(0, 109, 187)'}}>Marketing</span>
 </div> */}
 
   </section>
+
+
+
+
+
+
+
+  <div id="" className="flexbutt" style={{display:'flex', gap:'30px', justifyContent:'', alignItems:'baseline', color:'#fff', textShadow:'1px 1px 0 #000', padding:'0 4%'}}>
+
+
+
+        
+<div id="" className="flexcheek" style={{ position:'', top:'', order:''}} >
+ 
+ 
+
+ <div className="" style={{ background: 'rgba(0,0,0,0.60)', padding:'2rem ',
+          backdropFilter: 'blur(4px)', border:'1px solid #000', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+
+
+
+
+{/* <div style={{position:'absolute', top:'0', zIndex:'0'}}> */}
+      {/* {SecondaryImage ? (
+       <GatsbyImage
+         image={SecondaryImage}
+         alt={frontmatter.title + " - Featured image"}
+         className="post-card"
+         style={{border:'1px solid blue', width:'100%', height:'', maxHeight:'70vh',  borderRadius:'12px !important', position:'absolute', backgroundSize:'cover', objectFit:'cover', top:'0', zIndex:'0'}}
+       />
+     ) : (
+       ""
+     )} */}
+{/* </div> */}
+
+<div
+     
+            className="description"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+       
+{/* <Link
+       to={frontmatter.cta.ctaLink}
+       className="button fire actionJackson"
+       style={{
+         cursor:'pointer',
+         width:'80%',
+         maxWidth:'600px',
+         margin:'0 auto',
+         display:'flex',
+         alignSelf:'center',
+         color:'#ccc'
+       }}
+     >
+       {frontmatter.cta.ctaText}
+       <span className="icon -right">
+         <RiArrowRightSLine />
+       </span>
+
+       
+     </Link> */}
+     
+     <div style={{display: '', flexDirection:'', justifyContent:'', padding:'0 0 0 0', fontSize:'.8rem', textAlign:'center'}}>
+     
+
+
+{/* <StaticImage src="../../static/assets/LIGHTHOUSE-100s-SCORE.png" alt="Lighthouse Scores for VidSocks" width="750" height="176" className="rounded" /> */}
+     
+<LHScores />
+
+
+     <a target="_blank" rel="noreferrer" className="" style={{textDecoration:''}} href="https://googlechrome.github.io/lighthouse/viewer/?psiurl=https://vidsock.com%2F&amp;strategy=mobile&amp;category=performance&amp;category=accessibility&amp;category=best-practices&amp;category=seo&amp;category=pwa&amp;utm_source=lh-chrome-ext">View Our Google Speed Report
+     <br />(slow to load)</a>
+     
+     </div>
+
+
+</div>
+ 
+
+ </div> 
+
+
+
+
+
+
+      <div id="" className="flexcheek" style={{order:''}}>
+ 
+ 
+
+      <div className="" style={{ background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ',
+          backdropFilter: 'blur(4px)', border:'10px double #fff', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+
+
+   
+
+{/* <div style={{position:'absolute', top:'0', zIndex:'0'}}> */}
+           {/* {SecondaryImage ? (
+            <GatsbyImage
+              image={SecondaryImage}
+              alt={frontmatter.title + " - Featured image"}
+              className="post-card"
+              style={{border:'1px solid blue', width:'100%', height:'', maxHeight:'70vh',  borderRadius:'12px !important', position:'absolute', backgroundSize:'cover', objectFit:'cover', top:'0', zIndex:'0'}}
+            />
+          ) : (
+            ""
+          )} */}
+{/* </div> */}
+
+
+
+  <h2
+  className="title1 txtshadow-header"
+  style={{
+
+
+   position: 'relative',
+    textAlign: 'center', 
+    float: 'none',
+    margin:'0 0 0 0',
+    padding:'0',
+    fontSize:'1.7rem'
+  }}
+>
+
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #006dbb)', border:'1px solid #000' }}>Launch Your Web App</span>
+
+<br />
+
+Ready To Use = Easy to Learn<br />
+Serverless = NO WordPress<br />
+{/* Cloud Hosting = Free Forever<br /> */}
+Web Apps = NO Apple or Google
+<br />
+<span  className="neonText">Single Price = NO Fees<br />
+</span>
+<br />
+<span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Features</span>
+<br /><br />
+
+{/* <div id="container">
+  <div id="flip">
+    <div><div>Fastest Websites</div></div>
+    <div><div>Server-Less - Save More!</div></div>
+    <div><div>Built for SEO</div></div>
+  </div>
+</div> */}
+
+<span style={{color:'', fontSize:'70%'}}>Get all the details sent to your email:</span>
+
+{/* <span style={{color:'', fontSize:'70%'}}>Complete website solutions</span> */}
+
+{/* <br /><span style={{color:'#37f011', fontSize:'70%'}}>($50 value)</span> */}
+
+{/* <span style={{color:'', fontSize:'70%'}}>Act Now - get 30 minutes of Customization </span><br /><span style={{color:'#37f011', fontSize:'70%'}}>($50 value)</span> */}
+{/* <br />
+<span style={{fontSize:'56%'}}>E-commerce and Custom Packages available</span>
+<br /><br /> */}
+</h2>
+{/* <Link
+            to={frontmatter.cta.ctaLink}
+            className="button fire actionJackson"
+            state={{modal: true}}
+            style={{
+              cursor:'pointer',
+              width:'80%',
+              maxWidth:'600px',
+              margin:'0 auto',
+              display:'flex',
+              alignSelf:'center',
+              color:'#ff0000'
+            }}
+          >
+            {frontmatter.cta.ctaText}
+            <span className="icon -right">
+              <RiArrowRightSLine />
+            </span>
+
+            
+          </Link> */}
+          <Newsignup />
+          
+          <br /><br /> 
+          {/* <div style={{fontSize:'70%', textAlign:'center'}}>* Virtually all sites operate month-to-month with no fees. 
+          <br />
+          Some sites, under heavy usage can incur fees, as outlined by our hosting partner Netlify.<br /> <a href="https://www.netlify.com/pricing/" target="_blank" rel="noreferrer" >You can view more information here.</a></div> */}
+
+
+
+
+
+</div>
+      
+
+
+
+
+
+
+
+      </div> 
+</div>
+
 
 
 
