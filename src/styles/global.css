@@ -3392,10 +3392,13 @@ body.bloglist #chaticon, body.about #chaticon{display: none !important;}
             }
             
             .logofirst.mainlogo:before {
-              content: " . ";
+              content: " dot ^ ";
               color: #666;
               position: absolute;
-              margin-left:-10%;
+              margin-left:165%;
+              margin-top:-5%;
+              font-size: 40%;
+  
             }
             
             .logotype {
@@ -3410,19 +3413,19 @@ body.bloglist #chaticon, body.about #chaticon{display: none !important;}
               filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.5));
             }
             
-            .logotype:before {
+            /* .logotype:before {
               content: ".todd {";
               color: #666;
               letter-spacing:2px;
               word-spacing: -8px;
-            }
+            } */
             
             
-            .logotype:after {
+            /* .logotype:after {
               content: "}";
               color: #666;
               margin-left:3px;
-            }
+            } */
             
             body.dark .logotype:after, body.dark .logotype:before {
               color: #666;
