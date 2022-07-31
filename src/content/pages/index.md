@@ -7,7 +7,7 @@ underlayImage: /assets/transparent.png
 showInfo: ""
 youtuber: ""
 youtubeautostart: "1"
-title: Welcome to VidSocks
+title: Gulf Coast Web Sites - web design and development
 svgImage: /assets/null.svg
 showPosts: ""
 cta:

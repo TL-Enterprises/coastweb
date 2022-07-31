@@ -22,7 +22,7 @@ import ReactPlayer from 'react-player/lazy'
 // import Animation from "../pages/animation"
 import LHScores from "../../static/assets/LH-Scores.svg"
 import NFTDetails from "../components/nft-details"
-import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox"
+// import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox"
 import styled from "styled-components"
 import Newsignup from "../components/newssign"
 import BlogListHome from "../components/blog-list-home"
@@ -849,7 +849,7 @@ Guerrilla <span style={{color:'rgb(0, 109, 187)'}}>Marketing</span>
   }}
 >
 
-<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #006dbb)', border:'1px solid #000' }}>Launch Your Web App</span>
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #043b8e)', border:'1px solid #000' }}>Launch Your Web App</span>
 
 <br />
 
@@ -1095,7 +1095,7 @@ paddingLeft:'',
 
               <p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}><u>LOW</u> Monthly Costs</p>
               
-              <div style={{display:'flex', padding:'1rem 10%', margin:'0 2% 0 2%', borderRadius:'12px', height:'', textAlign:'center', justifyContent:'space-around', alignContent:'center', alignItems:'center', maxWidth:'1000px', gap:'20px', background:'rgba(0,0,0,0.30)',filter:'drop-shadow(0px 0px 10px #006dbb)', textShadow:'2px 2px 10px #222',  border:'1px solid #000'}}>
+              <div style={{display:'flex', padding:'1rem 10%', margin:'0 2% 0 2%', borderRadius:'12px', height:'', textAlign:'center', justifyContent:'space-around', alignContent:'center', alignItems:'center', maxWidth:'1000px', gap:'20px', background:'rgba(0,0,0,0.30)',filter:'drop-shadow(0px 0px 10px #043b8e)', textShadow:'2px 2px 10px #222',  border:'1px solid #000'}}>
               
                 <span style={{fontSize:'3rem', color:'white', transform:'rotate()', lineHeight:'100%'}}>Web Apps </span>
               
@@ -1541,8 +1541,8 @@ zIndex:'0'
 
 <div className="RArrow"><span></span></div>
 
-<SimpleReactLightbox>
-<SRLWrapper options={options}>
+{/* <SimpleReactLightbox>
+<SRLWrapper options={options}> */}
 
 <div className="horizontal-scroll-wrapper squares" style={{margin:'0 auto 0 auto', width:'calc(60vw + 1px)', transform: 'rotate(-90deg) translateY(-60vw)', padding:'30px'}}>
 
@@ -1562,8 +1562,8 @@ zIndex:'0'
 
 
     </div>
-    </SRLWrapper>
-    </SimpleReactLightbox>
+    {/* </SRLWrapper>
+    </SimpleReactLightbox> */}
 
     <Link className="post-card11" state={{modal: true}} to="/legacy/" title="View Todd's Legacy Work" style={{position:'absolute', left:'0', top:'', zIndex:'1', width:'50px', background:'rgba(0, 0, 0, .9)', height:'95%', display:'flex', flexDirection:'column', justifyContent:'center', borderRadius:'0 12px 12px 0', border:'1px solid #999 !important', borderLeft:'none !important', margin:'8px 0'}}>
   <div style={{position:'', left:'', top:'', transform: 'rotate(90deg)', width:'100%', height:'', border:'0px solid red', color:'#fff',  textShadow: '1px 1px 0 rgba(121, 115, 115, 0.7)', whiteSpace:'nowrap', fontWeight:'bold', margin:'-120px auto 0 auto'}}>View Legacy Work Here</div>

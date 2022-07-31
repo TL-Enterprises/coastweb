@@ -3329,9 +3329,13 @@ body.bloglist #chaticon, body.about #chaticon{display: none !important;}
 
 #chaticon:hover{
   opacity: 1 !important;
-  background:rgb(0, 109, 187) !important;
+  background:rgb(4, 59, 142) !important;
 }
 
+.colortest{
+background: rgb(4, 59, 142);
+background:#043b8e;
+}
 
             .logolink {
               text-decoration: none;
