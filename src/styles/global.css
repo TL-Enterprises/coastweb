@@ -3329,11 +3329,12 @@ body.bloglist #chaticon, body.about #chaticon{display: none !important;}
 
 #chaticon:hover{
   opacity: 1 !important;
-  background:rgb(4, 59, 142) !important;
+  background:rgb(0 100 187) !important;
 }
 
 .colortest{
 background: rgb(4, 59, 142);
+background: rgb(0 100 187);
 background:#043b8e;
 }
 
@@ -3346,7 +3347,7 @@ background:#043b8e;
             }
             
             .logocolor {
-              color:rgb(0, 109, 187);
+              color:rgb(0 100 187);
              
               /* color: rgb(141 41 0); */
 
