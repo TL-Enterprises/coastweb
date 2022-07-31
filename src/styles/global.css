@@ -3398,6 +3398,8 @@ body.bloglist #chaticon, body.about #chaticon{display: none !important;}
               margin-left:165%;
               margin-top:-5%;
               font-size: 40%;
+              line-height:8vh;
+              transform: rotate(-10deg);
   
             }
             

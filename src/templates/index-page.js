@@ -20,6 +20,7 @@ import ReactPlayer from 'react-player/lazy'
 // import Portfolio from "../pages/portfolio"
 // import Photos from "../pages/favorites"
 // import Animation from "../pages/animation"
+import NFTDetails from "../components/nft-details"
 import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox"
 import styled from "styled-components"
 import Newsignup from "../components/newssign"
@@ -1152,9 +1153,9 @@ Get FULL Shopify functionality directly inside your site.
 
 
 
-
-
-
+<section id="faqs" name="faqs" style={{padding:'10vh 10%'}}>
+<NFTDetails />
+</section>
 
 
 
