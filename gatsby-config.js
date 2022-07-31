@@ -209,10 +209,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Todd Lambert`,
-        short_name: `{todd}`,
+        name: `Coast Web`,
+        short_name: `Coast Web`,
         start_url: `/?user_mode=app`,
-        description: `Todd Lambert - web app`,
+        description: `Coast Web - web app`,
         background_color: `#222`,
         lang: `en`,
         theme_color: `#222`,

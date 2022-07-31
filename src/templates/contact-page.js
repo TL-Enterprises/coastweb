@@ -58,7 +58,7 @@ const Contact = ({ data }) => {
           <input type="hidden" name="form-name" value="contact" />
           <p>
             <label>
-              <input type="text" name="name" placeholder="Name" required />
+              <input type="text" name="name" placeholder="your name" required />
             </label>
           </p>
           <p>
@@ -68,12 +68,12 @@ const Contact = ({ data }) => {
           </p>
           <p>
             <label>
-              <input type="text" name="subject" placeholder="Subject" required />
+              <input type="hidden" name="subject" placeholder="Subject" value="Coast Web Form Post" />
             </label>
           </p>
           <p>
             <label>
-              <textarea name="message" placeholder="Your Message" required></textarea>
+              <textarea name="message" placeholder="your message" required></textarea>
             </label>
           </p>
           <p className="text-align-right" style={{marginRight:'60px', color:'#fff'}}>

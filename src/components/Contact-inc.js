@@ -75,7 +75,7 @@ export default class Contact extends React.Component {
         <div className="flexbutt" style={{justifyContent:'center', justifyItems:'center'}}>
         <p style={{margin:'0 1rem'}}>
           <label>
-            <input type="text" name="name" placeholder="Name" required />
+            <input type="text" name="name" placeholder="your name" required />
           </label>
         </p>
         <p style={{margin:'0 1rem'}}>
@@ -85,7 +85,7 @@ export default class Contact extends React.Component {
         </p>
         <p style={{margin:'0 1rem'}}>
           <label>
-            <input type="text" name="subject" placeholder="Subject" required />
+          <input type="hidden" name="subject" placeholder="Subject" value="Coast Web Form Post" />
           </label>
         </p>
         </div>
@@ -93,7 +93,7 @@ export default class Contact extends React.Component {
         <div>
         <p>
           <label>
-            <textarea name="message" placeholder="Your Message" required></textarea>
+            <textarea name="message" placeholder="your message" required></textarea>
           </label>
         </p>
 
