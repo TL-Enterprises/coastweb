@@ -671,7 +671,7 @@ background: 'rgba(196, 189, 179, .4)'
 {/* <div style={{ width:'80%', background: 'rgba(196, 189, 179, .5)',
   backdropFilter: 'blur(44px)', margin:'0 auto', borderRadius:'12px', zIndex:'2'}}> */}
 
-<div className="logolink" style={{textAlign:'center', position:'relative',fontSize:'clamp(2rem, 12.5vw, 10rem)', background:'tranparent', filter: 'drop-shadow(0px 0px 0px #444)'}}><span className="logofirst mainlogo" style={{color:'rgb(187 54 0)'}}>coast</span><span style={{color:'rgb(187 54 0)'}}>web</span>.site</div>
+<div className="logolink" style={{textAlign:'center', position:'relative',fontSize:'clamp(2rem, 12.5vw, 10rem)', background:'tranparent', filter: 'drop-shadow(0px 0px 0px #444)'}}><span className="logofirst mainlogo" style={{color:'rgb(0, 109, 187)'}}>coast</span><span style={{color:'rgb(0, 109, 187)'}}>web</span>.site</div>
 {/* </ScrollAnimation> */}
 
 {/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={true} delay={1000}> */}
@@ -684,7 +684,7 @@ textShadow:'0 1px 0 #eee',
 fontSize:'clamp(1.6rem, 6vw, 3.8rem)',
 paddingLeft:'2rem',
 }}>
-multimedia <span style={{color:'rgb(187 54 0)'}}>websites</span>
+multimedia <span style={{color:'rgb(0, 109, 187)'}}>websites</span>
 </h1>
 {/* </ScrollAnimation> */}
 
@@ -701,7 +701,7 @@ textShadow:'0 1px 0 #eee',
 fontSize:'clamp(1.6rem, 6vw, 3.8rem)',
 paddingLeft:'2rem',
 }}>
-Digital Product <span style={{color:'rgb(187 54 0)'}}>Design</span>
+Digital Product <span style={{color:'rgb(0, 109, 187)'}}>Design</span>
 </h2>
 {/* </ScrollAnimation> */}
 
@@ -715,7 +715,7 @@ textShadow:'0 1px 0 #eee',
 fontSize:'clamp(1.6rem, 6vw, 3.8rem)',
 paddingLeft:'2rem',
 }}>
-Guerrilla <span style={{color:'rgb(187 54 0)'}}>Marketing</span>
+Guerrilla <span style={{color:'rgb(0, 109, 187)'}}>Marketing</span>
 </h2>
 {/* </ScrollAnimation> */}
 {/* 
@@ -890,7 +890,7 @@ paddingLeft:'',
 
               <p style={{fontSize:'150%', textAlign:'center', margin:'2rem 0 0 0'}}><u>LOW</u> Monthly Costs</p>
               
-              <div style={{display:'flex', padding:'1rem 10%', margin:'0 2% 0 2%', borderRadius:'12px', height:'', textAlign:'center', justifyContent:'space-around', alignContent:'center', alignItems:'center', maxWidth:'1000px', gap:'20px', background:'rgba(0,0,0,0.30)', textShadow:'2px 2px 10px #222',  border:'1px solid #000'}}>
+              <div style={{display:'flex', padding:'1rem 10%', margin:'0 2% 0 2%', borderRadius:'12px', height:'', textAlign:'center', justifyContent:'space-around', alignContent:'center', alignItems:'center', maxWidth:'1000px', gap:'20px', background:'rgba(0,0,0,0.30)',filter:'drop-shadow(0px 0px 10px #006dbb)', textShadow:'2px 2px 10px #222',  border:'1px solid #000'}}>
               
                 <span style={{fontSize:'3rem', color:'white', transform:'rotate()', lineHeight:'100%'}}>Web Apps </span>
               
