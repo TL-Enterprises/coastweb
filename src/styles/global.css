@@ -3335,7 +3335,7 @@ body.bloglist #chaticon, body.about #chaticon{display: none !important;}
 .colortest{
 background: rgb(4, 59, 142);
 background: rgb(0 100 187);
-background:#043b8e;
+background:#0064bb;
 }
 
             .logolink {
@@ -3413,7 +3413,7 @@ background:#043b8e;
             
             .logotype {
               font-family: Lobster Two;
-              color:rgb(0, 109, 187);
+              color:rgb(0 100 187);
               letter-spacing: 2px;
               font-size: clamp(2.5rem, 5vw, 5rem) !important;
               text-transform: lowercase;

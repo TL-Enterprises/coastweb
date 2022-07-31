@@ -858,7 +858,7 @@ Serverless = NO WordPress<br />
 {/* Cloud Hosting = Free Forever<br /> */}
 Web Apps = NO Apple or Google
 <br />
-<span  className="neonText">Single Price = NO Fees<br />
+<span  className="neonText2">Single Price = NO Fees<br />
 </span>
 <br />
 <span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Features</span>
