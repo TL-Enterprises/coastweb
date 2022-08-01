@@ -25,12 +25,12 @@ youtubestart: ""
 <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
 Offering complete website/app platforms with multimedia blog and customizable  pages with integrated contact forms. </h3>
 
-<h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;"> Built for small businesses, artists, photographers, musicians and clubs &amp; restaurants.
+<h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;"> Built for small businesses, artists, photographers, musicians and clubs &amp; restaurants to drive and engage traffic.
 </h3>
 
 <blockquote>
 <br />
-<p>Coast Web Sites rank incredibly well in Google. It makes things SO easy, just click to maintain!</p>
+<p>Coast Web sites rank incredibly well in Google. It makes things SO easy, just click, click away!</p>
 <div style="text-align:right; padding-right:20%;"> – satisfied user</div>
 <br />
 </blockquote>
