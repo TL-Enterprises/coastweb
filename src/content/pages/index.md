@@ -23,7 +23,7 @@ youtubestart: ""
 ---
 <br />
 <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
-A complete website/app platform with multimedia blog and customizable home page, about and contact pages with integrated contact forms. </h3>
+Offering complete website/app platforms with multimedia blog and customizable  pages with integrated contact forms. </h3>
 
 <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;"> Built for small businesses, artists, photographers, musicians and clubs &amp; restaurants.
 </h3>
@@ -31,6 +31,6 @@ A complete website/app platform with multimedia blog and customizable home page,
 <blockquote>
 <br />
 <p>Coast Web Sites rank incredibly well in Google. It makes things SO easy, just click to maintain!</p>
-<div style="text-align:right; padding-right:20%;"> – Satisfied Coast Web user</div>
+<div style="text-align:right; padding-right:20%;"> – satisfied user</div>
 <br />
 </blockquote>
