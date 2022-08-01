@@ -738,12 +738,15 @@ Guerrilla <span style={{color:'#0064bb'}}>Marketing</span>
 <div id="" className="flexcheek" style={{ position:'', top:'', order:''}} >
  
  
-
+{/* 
  <div className="" style={{ background: 'rgba(0,0,0,0.60)', padding:'2rem ',
-          backdropFilter: 'blur(4px)', border:'1px solid #000', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
+          backdropFilter: 'blur(4px)', border:'1px solid #000', borderRadius:'12px', textAlign:'', alignSelf:'', }}> */}
 
 
+<div className="" style={{ background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ',
+          backdropFilter: 'blur(4px)', border:'10px double #fff', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 
+<div  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', margin:'-40px auto 0 auto', width:'80%', position:'absolute', display:'grid', placeContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', fontSize:'1.7rem' }}>What We Offer</div>
 
 {/* <div style={{position:'absolute', top:'0', zIndex:'0'}}> */}
       {/* {SecondaryImage ? (
@@ -757,6 +760,7 @@ Guerrilla <span style={{color:'#0064bb'}}>Marketing</span>
        ""
      )} */}
 {/* </div> */}
+
 
 <div
      
