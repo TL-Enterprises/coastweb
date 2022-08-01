@@ -672,7 +672,7 @@ background: 'rgba(196, 189, 179, .4)'
 {/* <div style={{ width:'80%', background: 'rgba(196, 189, 179, .5)',
   backdropFilter: 'blur(44px)', margin:'0 auto', borderRadius:'12px', zIndex:'2'}}> */}
 
-<div className="logolink" style={{textAlign:'center', position:'relative',fontSize:'clamp(2rem, 12.5vw, 10rem)', background:'tranparent', filter: 'drop-shadow(0px 0px 0px #444)'}}><span className="logofirst mainlogo" style={{color:'#0064bb', filter: 'drop-shadow(0px 0px 0px #444)'}}>coast</span><span  className="mainlogo" style={{color:'#0064bb'}}>web</span><span style={{fontSize:'clamp(1.6rem, 10.5vw, 8rem)',}}>.site</span></div>
+<div className="logolink" style={{textAlign:'center', position:'relative',fontSize:'clamp(2rem, 12.5vw, 10rem)', background:'tranparent', filter: 'drop-shadow(0px 0px 0px #444)'}}><span className="logofirst mainlogo" style={{color:'#0064bb', filter: 'drop-shadow(0px 0px 0px #444)'}}><span style={{color:'', fontSize:'clamp(2.2rem, 16.5vw, 15rem)'}}>c</span>oast</span><span className="mainlogo" style={{color:'#0064bb'}}><span style={{color:'', fontSize:'clamp(2.2rem, 16.5vw, 15rem)', marginRight:'-8px', marginLeft:'-8px'}}>w</span><span className="mainlogo" style={{color:''}}>eb</span></span><span style={{fontSize:'clamp(1.6rem, 10.5vw, 8rem)',}}>.site</span></div>
 {/* </ScrollAnimation> */}
 
 {/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={true} delay={1000}> */}
