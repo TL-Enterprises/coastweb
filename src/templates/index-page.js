@@ -865,7 +865,7 @@ Web Apps = NO Apple or Google
 <span  className="neonText2">Single Price = NO Fees<br />
 </span>
 <br />
-<span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Features</span>
+<span style={{color:'', fontSize:'90%'}}>Fast | Flexible | Secure | Featured</span>
 <br /><br />
 
 {/* <div id="container">
@@ -1077,6 +1077,9 @@ paddingLeft:'',
 
 
 
+<StaticImage src="../../static/assets/biloxi-oceansprings.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important'}}  />
+
+
 <section className="outer section section--gradient fluff txtshadow" style={{padding:'0 8%'}} >
       <div className="container" style={{padding: '0 10%', color:'#fff'}}>
 
@@ -1194,6 +1197,12 @@ Get FULL Shopify functionality directly inside your site.
 
       </div>
 </section>
+
+
+
+
+<StaticImage src="../../static/assets/biloxibay.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important'}}  />
+
 
 
 
@@ -1357,7 +1366,7 @@ Get FULL Shopify functionality directly inside your site.
 
 
 
-
+<StaticImage src="../../static/assets/I110-loop.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important'}}  />
 
 
 
@@ -1365,6 +1374,8 @@ Get FULL Shopify functionality directly inside your site.
 <section id="faqs" name="faqs" style={{padding:'0 10%'}}>
 <NFTDetails />
 </section>
+
+
 
 
 

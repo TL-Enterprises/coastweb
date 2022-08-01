@@ -223,7 +223,7 @@ export function Footer() {
     ""
 
   ) : (
-    <div className="social-icons" style={{textAlign:'center', justifyContent:'center', display:'flex', alignItems:'center'}}>
+    <div className="social-icons" style={{textAlign:'center', justifyContent:'center', display:'flex', alignItems:'center', display:'none'}}>
        <div className="socialtext" style={{fontSize:'14px',}}>Todd's<br />Social</div> {sIcons}
         </div>
   )}
