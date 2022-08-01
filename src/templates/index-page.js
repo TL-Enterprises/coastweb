@@ -730,7 +730,7 @@ Guerrilla <span style={{color:'#0064bb'}}>Marketing</span>
 
 
 
-  <div id="" className="flexbutt" style={{display:'flex', gap:'30px', justifyContent:'', alignItems:'baseline', color:'#fff', textShadow:'1px 1px 0 #000', padding:'0 4%'}}>
+  <div id="" className="flexbutt" style={{display:'flex', gap:'30px', justifyContent:'', alignItems:'top', color:'#fff', textShadow:'1px 1px 0 #000', padding:'1rem 4%'}}>
 
 
 

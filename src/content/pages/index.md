@@ -21,6 +21,7 @@ youtubemute: "1"
 svgzindex: ""
 youtubestart: ""
 ---
+<br />
 <h3 class="" style="color:; font-weight:bold; font-size:115%; margin:1rem 0; text-align:center; padding:5px; border-radius:12px;">
 A complete website/app platform with multimedia blog and customizable home page, about and contact pages with integrated contact forms. </h3>
 
@@ -29,7 +30,7 @@ A complete website/app platform with multimedia blog and customizable home page,
 
 <blockquote>
 <br />
-<p>Coast Web Sites produce top-notch SEO-minded content that rank incredibly well in Google page rankings. It has everything! Social Media sites auto import Website previews with descriptions. It makes things SO easy, just click to share!</p>
-<div style="text-align:right; padding-right:20%;"> – Satisfied Coast Web User</div>
+<p>Coast Web Sites rank incredibly well in Google. It makes things SO easy, just click to maintain!</p>
+<div style="text-align:right; padding-right:20%;"> – Satisfied Coast Web user</div>
 <br />
 </blockquote>
