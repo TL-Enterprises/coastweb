@@ -31,7 +31,7 @@ const NFTDetails = () => (
 
 <Tabs className="infomenu" style={{minHeight:'20vh', width:'100%', maxWidth:'', overflow:'hidden', marginTop:'0',}}>
 
-<h2 style={{fontSize:'240%', textAlign:'center', margin:'0',  background: 'rgba(0,0,0,0.75)', padding:'.5rem', borderRadius:'12px 12px 0 0'}}>Coast Web Sites </h2>
+<h2 style={{fontSize:'240%', textAlign:'center', margin:'0',  background: 'rgba(0,0,0,0.75)', padding:'.5rem', borderRadius:'12px 12px 0 0'}}>Coast Web sites </h2>
 
     <TabList style={{width:'100%', background: 'rgba(0,0,0,0.75)', padding:'10px 0 0 0', borderRadius:'0 0 12px 12px', display:'flex', justifyContent:'space-around'}}>
 

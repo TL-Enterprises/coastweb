@@ -349,9 +349,9 @@ const YouTube = frontmatter.youtuber
   <body className="homepage vidsock triple" />
 </Helmet>
 <Seo
-          title={`Todd Lambert (the original) - Photographer | Web Developer and Product Designer`}
-          description={`Todd builds websites, web apps and creates digital products. He also does conceptual photography.`}
-          image={'https://toddlambert.com/assets/todd-camping.jpg'}
+          title={`Gulf Coast Web Sites | Web Developer and Product Designer`}
+          description={`Coast Web builds websites, web apps and creates digital products. We also do conceptual photography and multimedia`}
+          image={'https://coastweb.site/assets/todd-camping.jpg'}
         />
        {/* <Seo
         title={frontmatter.title}
@@ -652,7 +652,7 @@ background: 'rgba(196, 189, 179, .4)'
 
 <h3 style={{fontSize:'10vw', opacity:'.2', transform: 'skewY(140deg)', transform:'rotate(-15deg)', position:'absolute', top:'0', fontWeight:'bold'}}>gulfport</h3>
 
-<h3 style={{fontSize:'18vw', opacity:'.2', transform: 'skewY(-0deg)', transform:'rotate(32deg)', position:'absolute', top:'0vh', right:'0', fontWeight:'normal', color:'#000'}}><i>Biloxi</i></h3>
+<h3 style={{fontSize:'18vw', opacity:'.2', transform: 'skewY(-0deg)', transform:'rotate(32deg)', position:'absolute', top:'0vh', right:'0', fontWeight:'normal', color:'#000'}}><i>biloxi</i></h3>
 
 <h3 style={{fontSize:'18vw', opacity:'.2', transform: 'skewY(-20deg)', transform:'rotate(27deg)', position:'absolute', top:'60vh', left:'3vw', fontWeight:'bold'}}>D'Iberville</h3>
 
@@ -1216,7 +1216,7 @@ Get FULL Shopify functionality directly inside your site.
   }}
 >
 
-<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', border:'1px solid #000' }}>Coast Web Sites include:</span></h2>
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', border:'1px solid #000' }}>Coast Web sites include:</span></h2>
           
         <ul className="featurelist" style={{listStyleType:'none'}}>
         <li>User-installable PWA (Progressive Web Apps) which means your site can be installed on any device without the need for expensive and complex App Stores.</li>
@@ -1257,7 +1257,7 @@ Get FULL Shopify functionality directly inside your site.
   }}
 >
 
-<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', border:'1px solid #000' }}>Coast Web Sites:</span></h2>
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', border:'1px solid #000' }}>Coast Web sites:</span></h2>
 
         <ul className="featurelist" style={{listStyleType:'none'}}>
 
