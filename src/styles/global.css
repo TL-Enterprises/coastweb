@@ -3400,15 +3400,16 @@ background:#0064bb;
               content: " dot ^ ";
               color: #666;
               position: absolute;
-              margin-left:165%;
-              margin-top:0;
+              margin-left:166%;
+              top:-10%;
+              /* margin-top:; */
               font-size: 30%;
-              line-height:8vh;
+              /* line-height:8vh; */
               transform: rotate(-10deg);
   
             }
 
-    
+            
           
             
             
