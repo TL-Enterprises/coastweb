@@ -1362,7 +1362,7 @@ Get FULL Shopify functionality directly inside your site.
 
 
 
-<section id="faqs" name="faqs" style={{padding:'10vh 10%'}}>
+<section id="faqs" name="faqs" style={{padding:'0 10%'}}>
 <NFTDetails />
 </section>
 
