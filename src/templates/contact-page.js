@@ -56,12 +56,12 @@ const Contact = ({ data }) => {
           data-netlify-honeypot="bot-field"
         >
           <input type="hidden" name="form-name" value="contact" />
-          <p>
+          <p style={{ filter:'drop-shadow(0px 0px 10px #0064bb)'}}>
             <label>
               <input type="text" name="name" placeholder="your name" required />
             </label>
           </p>
-          <p>
+          <p style={{ filter:'drop-shadow(0px 0px 10px #0064bb)'}}>
             <label>
               <input type="email" name="email" placeholder="your@email.com" required />
             </label>
@@ -71,7 +71,7 @@ const Contact = ({ data }) => {
               <input type="hidden" name="subject" placeholder="Subject" value="Coast Web Form Post" />
             </label>
           </p>
-          <p>
+          <p style={{ filter:'drop-shadow(0px 0px 10px #0064bb)'}}>
             <label>
               <textarea name="message" placeholder="your message" required></textarea>
             </label>
