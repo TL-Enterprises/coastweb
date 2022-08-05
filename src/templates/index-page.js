@@ -1150,8 +1150,8 @@ zIndex:'0'
 
 
 
-<StaticImage src="../../static/assets/biloxi-oceansprings.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important', clipPath:' polygon(0% 15%, 100% 15%, 100% 85%, 0% 85%)'
-}}  />
+{/* <StaticImage src="../../static/assets/biloxi-oceansprings.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important', clipPath:' polygon(0% 15%, 100% 15%, 100% 85%, 0% 85%)'
+}}  /> */}
 
 
 <section className="outer section section--gradient fluff txtshadow" style={{padding:'0 8%'}} >
@@ -1440,7 +1440,7 @@ Get FULL Shopify functionality directly inside your site.
 
 
 
-<StaticImage src="../../static/assets/I110-loop.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important'}}  />
+
 
 
 
@@ -1452,7 +1452,7 @@ Get FULL Shopify functionality directly inside your site.
 
 
 
-
+{/* <StaticImage src="../../static/assets/I110-loop.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important', clipPath:' polygon(0% 15%, 100% 15%, 100% 85%, 0% 85%)'}}  /> */}
 
 
 
