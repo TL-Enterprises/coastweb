@@ -3377,7 +3377,7 @@ background:#0064bb;
               font-family: Lobster Two;
               color: #666;
               letter-spacing: 1px;
-              text-transform: lowercase;
+              /* text-transform: lowercase; */
               font-weight: 400;
               padding-top:4px
             }
@@ -3415,10 +3415,10 @@ background:#0064bb;
             
             .logotype {
               font-family: Lobster Two;
-              color:rgb(0 100 187);
+              /* color:rgb(0 100 187); */
               letter-spacing: 2px;
               font-size: clamp(2.5rem, 5vw, 5rem) !important;
-              text-transform: lowercase;
+              /* text-transform: lowercase; */
               font-weight: 400;
               position: relative;
               text-shadow:0 1px 0 #fff;
