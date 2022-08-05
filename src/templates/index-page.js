@@ -746,7 +746,7 @@ Guerrilla <span style={{color:'#0064bb'}}>Marketing</span>
 <div className="" style={{ background: 'rgba(0,0,0,0.60)', padding:'1rem 2rem ',
           backdropFilter: 'blur(4px)', border:'10px double #fff', borderRadius:'12px', textAlign:'', alignSelf:'', }}>
 
-<div  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', margin:'-40px auto 0 auto', width:'80%', position:'absolute', display:'grid', placeContent:'center', textShadow:'2px 2px 10px #222', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', fontSize:'1.7rem' }}>Create Your Web Empire</div>
+<div  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', borderRadius:'12px', margin:'-40px auto 0 auto', width:'84%', position:'absolute', display:'grid', placeContent:'center', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', fontSize:'1.7rem' }}>Create Your Web Empire</div>
 
 {/* <div style={{position:'absolute', top:'0', zIndex:'0'}}> */}
       {/* {SecondaryImage ? (
@@ -1077,11 +1077,12 @@ paddingLeft:'',
 
 
 
-<StaticImage src="../../static/assets/biloxi-oceansprings.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important'}}  />
+<StaticImage src="../../static/assets/biloxi-oceansprings.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important', clipPath:' polygon(0% 15%, 100% 15%, 100% 85%, 0% 85%)'
+}}  />
 
 
 <section className="outer section section--gradient fluff txtshadow" style={{padding:'0 8%'}} >
-      <div className="container" style={{padding: '0 10%', color:'#fff'}}>
+      <div className="container" style={{padding: '0 0%', color:'#fff'}}>
 
 {/* <h2>Start with the best built website and then make sure it's as fast as can be. Then make some of the most innovative features that nobody else has. Finally, make sure it's virtually hack-proof, easy to use and ready to go!</h2>
 
@@ -1229,7 +1230,7 @@ Get FULL Shopify functionality directly inside your site.
   }}
 >
 
-<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', border:'1px solid #000' }}>Coast Web includes:</span></h2>
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', }}>Coast Web includes:</span></h2>
           
         <ul className="featurelist" style={{listStyleType:'none'}}>
         <li>User-installable PWA (Progressive Web Apps) which means your site can be installed on any device without the need for expensive and complex App Stores.</li>
@@ -1270,7 +1271,7 @@ Get FULL Shopify functionality directly inside your site.
   }}
 >
 
-<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', border:'1px solid #000' }}>Coast Web sites:</span></h2>
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', }}>Coast Web sites:</span></h2>
 
         <ul className="featurelist" style={{listStyleType:'none'}}>
 
@@ -1324,7 +1325,7 @@ Get FULL Shopify functionality directly inside your site.
   }}
 >
 
-<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', border:'1px solid #000' }}>More Features:</span></h2>
+<span  className="" style={{fontSize:'100%', fontWeight:'bold', textTransform:'', background:'rgba(0,0,0,0.30)', borderRadius:'12px', marginTop:'-40px', position:'absolute', width:'100%', display:'flex', justifyContent:'center', textShadow:'2px 2px 10px #222', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', }}>More Features:</span></h2>
 
 
         <ul className="featurelist" style={{listStyleType:'none'}}>
