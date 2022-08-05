@@ -1075,6 +1075,79 @@ paddingLeft:'',
 
 
 
+<section id="posts1" name="posts" style={{display:'block'}}>
+
+
+
+<div style={{padding:'0 0 0 0',
+position:'relative', height:'', width:'100%', overflow:'', margin:'0 auto',
+//  outline:'18px dashed rgba(121, 115, 115, 0.3)', 
+ borderRadius:'', 
+ border:'0px solid rgba(121, 115, 115, 0.3)', 
+//  background:'rgba(0, 0, 0, 0.3)',
+//  background:'rgba(121, 115, 115, 0.2)',
+//  background: 'rgba(196, 189, 179, .9)',
+//  background:'rgba(121, 115, 115, 0.5)',
+zIndex:'0'
+//  textShadow: '1px 1px 0 rgba(121, 115, 115, 0.7)',
+ }}>
+
+
+ <h3 className="logotype" style={{textAlign:'center', margin:'0 0 0 0', fontSize:'5vw', clear:'right', paddingTop:'0',}}>We work for you</h3>
+<br />
+
+
+{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}>
+<Portfolio />
+</ScrollAnimation> */}
+
+
+<div className="sliderholder" style={{display:'flex', justifyContent:'center', width:'100%', height:'60vh', overflow:'hidden', position:'relative', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000'}}>
+
+<div className="RArrow"><span></span></div>
+
+{/* <SimpleReactLightbox>
+<SRLWrapper options={options}> */}
+
+<div className="horizontal-scroll-wrapper squares" style={{margin:'0 auto 0 auto', width:'calc(60vw + 1px)', transform: 'rotate(-90deg) translateY(-60vw)', padding:'30px'}}>
+
+
+{/* <div style={{width:'1000px', height:'1000px'}}></div> */}
+<div className="introspacer" style={{}}></div>
+
+
+{data.allFile.edges.map(edge => {
+      return <GatsbyImage
+      image={edge.node.childImageSharp.gatsbyImageData}
+      srl_gallery_image="true"
+      alt={edge.node.name}
+      key={edge.node.id}
+    />
+    })}
+
+
+    </div>
+    {/* </SRLWrapper>
+    </SimpleReactLightbox> */}
+
+    <Link className="post-card11" state={{modal: true}} to="/legacy/" title="View Todd's Legacy Work" style={{position:'absolute', left:'0', top:'', zIndex:'1', width:'50px', background:'rgba(0, 0, 0, .9)', height:'95%', display:'flex', flexDirection:'column', justifyContent:'center', borderRadius:'0 12px 12px 0', border:'1px solid #999 !important', borderLeft:'none !important', margin:'8px 0', filter:'drop-shadow(0px 0px 10px #0064bb)'}}>
+  <div style={{position:'', left:'', top:'', transform: 'rotate(90deg)', width:'100%', height:'', border:'0px solid red', color:'#fff',  textShadow: '1px 1px 0 rgba(121, 115, 115, 0.7)', whiteSpace:'nowrap', fontWeight:'bold', margin:'-120px auto 0 auto', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000'}}>View Legacy Work Here</div>
+</Link>
+
+
+</div>
+{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}>
+<Photos />
+</ScrollAnimation> */}
+
+{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}>
+<Animation />
+</ScrollAnimation> */}
+  </div>
+
+
+</section>
+
 
 
 <StaticImage src="../../static/assets/biloxi-oceansprings.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important', clipPath:' polygon(0% 15%, 100% 15%, 100% 85%, 0% 85%)'
@@ -1202,7 +1275,7 @@ Get FULL Shopify functionality directly inside your site.
 
 
 
-<StaticImage src="../../static/assets/biloxibay.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important'}}  />
+{/* <StaticImage src="../../static/assets/biloxibay.jpg" alt="Todd Lambert Night photos" style={{height:'auto', width:'100vw', maxHeight:'100%', position:'', left:'0', top:'', zIndex:'', margin:'2vh 0', objectFit:'contain', overflow:'hidden', border:'0px solid red !important'}}  /> */}
 
 
 
@@ -1526,263 +1599,34 @@ Todd sells exceptionally fast and well-built multimedia web apps called VidSocks
 
 
 
-<section id="posts1" name="posts" style={{display:'block'}}>
 
 
 
-<div style={{padding:'0 0 0 0',
-position:'relative', height:'', width:'100%', overflow:'', margin:'0 auto',
-//  outline:'18px dashed rgba(121, 115, 115, 0.3)', 
- borderRadius:'', 
- border:'0px solid rgba(121, 115, 115, 0.3)', 
-//  background:'rgba(0, 0, 0, 0.3)',
-//  background:'rgba(121, 115, 115, 0.2)',
-//  background: 'rgba(196, 189, 179, .9)',
-//  background:'rgba(121, 115, 115, 0.5)',
-zIndex:'0'
-//  textShadow: '1px 1px 0 rgba(121, 115, 115, 0.7)',
- }}>
 
 
- <h3 className="logotype" style={{textAlign:'center', margin:'0 0 0 0', fontSize:'5vw', clear:'right', paddingTop:'0',}}>We work for you</h3>
-<br />
 
 
-{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}>
-<Portfolio />
-</ScrollAnimation> */}
 
 
-<div className="sliderholder" style={{display:'flex', justifyContent:'center', width:'100%', height:'60vh', overflow:'hidden', position:'relative', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000'}}>
 
-<div className="RArrow"><span></span></div>
 
-{/* <SimpleReactLightbox>
-<SRLWrapper options={options}> */}
 
-<div className="horizontal-scroll-wrapper squares" style={{margin:'0 auto 0 auto', width:'calc(60vw + 1px)', transform: 'rotate(-90deg) translateY(-60vw)', padding:'30px'}}>
 
 
-{/* <div style={{width:'1000px', height:'1000px'}}></div> */}
-<div className="introspacer" style={{}}></div>
 
 
-{data.allFile.edges.map(edge => {
-      return <GatsbyImage
-      image={edge.node.childImageSharp.gatsbyImageData}
-      srl_gallery_image="true"
-      alt={edge.node.name}
-      key={edge.node.id}
-    />
-    })}
 
 
-    </div>
-    {/* </SRLWrapper>
-    </SimpleReactLightbox> */}
 
-    <Link className="post-card11" state={{modal: true}} to="/legacy/" title="View Todd's Legacy Work" style={{position:'absolute', left:'0', top:'', zIndex:'1', width:'50px', background:'rgba(0, 0, 0, .9)', height:'95%', display:'flex', flexDirection:'column', justifyContent:'center', borderRadius:'0 12px 12px 0', border:'1px solid #999 !important', borderLeft:'none !important', margin:'8px 0', filter:'drop-shadow(0px 0px 10px #0064bb)'}}>
-  <div style={{position:'', left:'', top:'', transform: 'rotate(90deg)', width:'100%', height:'', border:'0px solid red', color:'#fff',  textShadow: '1px 1px 0 rgba(121, 115, 115, 0.7)', whiteSpace:'nowrap', fontWeight:'bold', margin:'-120px auto 0 auto', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000'}}>View Legacy Work Here</div>
-</Link>
 
 
-</div>
-{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}>
-<Photos />
-</ScrollAnimation> */}
 
-{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}>
-<Animation />
-</ScrollAnimation> */}
-  </div>
 
 
-</section>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={0} duration={2}> */}
-
-
-
-
-<section id="resume" style={{display:'none', margin:'0', background: 'rgba(196, 189, 179, .9)', filter:'drop-shadow(12px 12px 12px rgba(44, 44, 44, 0.6))'}}>
-
-{/* <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut" initiallyVisible={false} animateOnce={false} animatePreScroll={false} delay={200}> */}
-
-<div style={{padding:'0',
-position:'relative', height:'', width:'100%', overflow:'', margin:'0 auto',
- outline:'18px dashed rgba(121, 115, 115, 0.3)',
- borderRadius:'', border:'0px solid rgba(121, 115, 115, 0.3)', 
-// background:'rgba(121, 115, 115, 0.2)'
-}}>
-
-
-<div className="outer1 section1" style={{padding:'0 2%', height:'', background:'transparent'}}>
-
-<div className="container3" style={{ position:'relative'}}>
-
-<h3 className="logotype print" style={{textAlign:'center', margin:'1vh 0 3vh 0', fontSize:'5vw', clear:'right', paddingTop:'1rem'}}>
-Resume
-</h3>
-<h3 className="logotype printonly" style={{textAlign:'center', margin:' 0', fontSize:'350%',}}>
-Lambert
-</h3>
-
-<div className="printonly" style={{textAlign:'center', position:'absolute', bottom:'-30px', width:'100%'}}>
-(228) 239-6088<br /> toddlambert@gmail.com
-</div>
-</div>
-
-
-<div className="resume flexbutt" style={{width:'100%', padding:'0 4%', background:'transparent', gap:'30px'}}>
-
-
-
-<div className="primary1 flexcheek" style={{color:'', }}>
-
-{/* <h3 className="logotype printonly" style={{textAlign:'left', fontSize:'250%', height:'50px',}}>
-Lambert
-</h3> */}
-
-
-
-	
-	<h2 className="todd-headline">Highlights</h2>
-
-<p><strong>Product Designer - Skilled web designer/developer with 21 years of professional experience.</strong></p>
-
-<p>Successful product designer able to integrate both technical and creative skills to create cross-browser and cross-platform solutions with modern web architecture and navigation systems.</p>
-
-<p>Proven record of completing bold, clean, and effective designs with consistent performance ahead of schedule and under budget.</p>
-
-<p>Industry experience including semiconductor, hospitality, entertainment, health, publishing, finance, insurance, construction, computer software, and direct marketing.</p>
-
-
-<h2 className="todd-headline" style={{marginBottom:''}}>Proficiency</h2>
-
-
-<p>Veteran WordPress Theme/Plugin Developer <br />React JS Frontend Designer/Developer</p>
-
-<p>Responsive, Reactive, Adaptive Design, progressive enhancement, PWA development, object oriented CSS animation.</p> 
-
-<p>Analytics, SEO, UI design, Information Architecture &amp; Content Management System integrations. Photo and Video production. </p>
-
-<p><strong>I prefer: JAM stack, React, Gatsby, Canon, Subaru and my Mac.</strong></p>
-
-<h2 className="todd-headline">Education</h2>
-
-<ul className="edu">
-<li><strong>Cal State University Fullerton</strong><br />
-Web Design and Development - Degree</li>
-
-<li><strong>Coastline Community College</strong><br />
-Quality Assurance - Degree</li>
-
-<li><strong>Golden West College</strong><br />
-Business Management - Degree</li>
-
-<li><strong>Huntington Beach High School</strong><br />
-High School General Courses - Diploma</li>
-</ul>
-
-
-	
-</div>
-
-
-<div className="secondary1 flexcheek" style={{color:'', margin:'',}}>
-{/* <h3 className="printonly" style={{textAlign:'right', height:'50px', fontSize:'150%',}}>(228) 239-6088
-</h3>  
-	 */}
-<h2 className="todd-headline">Professional Experience</h2>
-
-<p style={{margin: '0 0 .5rem 0 ',
-padding: '0'}}><strong>Todd Lambert Enterprises, 1999 - Present</strong><br />
-<em>Sole Proprietor / Photographer</em></p>
-
-<p>Conducted all facets of web development business including meeting with clients, selling web services, and developing methods for improved customer support. <br /> I also like to travel all over the country and photograph spooky and abandoned places at night. <br /><a className="noexit" style={{color:'', textAlign:'center'}} href="https://twilightscapes.com">View @ TwilightScapes.com</a></p>
-
-<p><strong>Primal Health, 2013 - 2014</strong><br /> 
-<em>Creative Director / Associate Developer</em>
-</p>
-<p>
-Responsible for all graphic components and direct marketing efforts. Worked with various departments to advance reach through social marketing, engineering and analytics. Also performed SEO and conducted extensive AB testing.</p>
-
-<p><strong>Texas Instruments, 2010 - 2013</strong><br /> 
-<em>Style Architect / Front End Developer / Senior UI Designer</em>
-</p>
-<p>
-Worked on all aspects of TIs website, from new ad campaigns and interactive widgets to the core infrastructure including a new re-design and replacement of site navigation site-wide. Championed responsive design techniques and other modern architecture for use on corporate site. Utilized Jquery animation for replacing all of TIs legacy Flash files.</p>
-
-<p><strong>AGJ Systems &amp; Networks, 2008 - 2010 </strong><br />
-<em>Web Director / Lead Developer / Senior Designer</em>
-</p>
-<p>
-Solely responsible for all design and development aspects of web department. Interacted with customers and other departments to integrate designs into modern websites catered to customer needs.</p>
-
-<p><strong>TeleVox Software, 2004 - 2007</strong><br />
-<em>Director of Web Development</em>
-</p>
-<p>
-Responsible for site architecture, design, graphics, programming, copywriting/editing, project management of all TeleVox websites and online marketing campaigns. Supervised 25 designers and developers.</p>
-
-
-</div>
-
- </div>
-
- <a
-            href="https://toddlambert.com/assets/resume-toddlambert.pdf"
-            className="post-card button noexit print"
-            style={{
-              cursor:'pointer',
-              width:'80%',
-              maxWidth:'300px',
-              margin:'5vh auto',
-              display:'flex',
-              alignSelf:'center',
-              color:'#ccc'
-            }}
-          >
-            Download Resume
-            <span className="icon -right">
-              <VscFilePdf style={{fontSize:'30px'}} />
-            </span>
-
-            
-          </a>
-
-
-<br />
-</div>
-
-</div>
-{/* </ScrollAnimation> */}
-</section>
 
 
 
