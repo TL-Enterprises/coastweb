@@ -1646,7 +1646,7 @@ Todd sells exceptionally fast and well-built multimedia web apps called VidSocks
 
   <div className="outer" style={{margin:'0', outline:'0px solid rgba(121, 115, 115, 0.3)', outlineOffset:'12px', borderRadius:'12px', padding:'0 4%',}}>
 
-    <h3 className="logotype" style={{textAlign:'center', margin:'1vh 0 0 0', fontSize:'5vw', clear:'right', paddingTop:'0', color:'#fff', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000',}}>
+    <h3 className="logotype" style={{textAlign:'center', margin:'1vh 0 0 0', fontSize:'5vw', clear:'right', paddingTop:'0', color:'#fff', background:'rgba(0,0,0,0.30)', filter:'drop-shadow(0px 0px 10px #0064bb)', border:'1px solid #000', borderRadius:'12px'}}>
 Get Started Today
 </h3>
 <p style={{fontSize:'clamp(1.5rem, 2.5vw, 3.8rem)', textAlign:'center'}}>
